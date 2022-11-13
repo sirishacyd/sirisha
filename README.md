@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm sirisha </h1>
-<h3 align="center">Currently pursuing Masters at San Jose State University Fall 2022</h3>
 
 - 📫 How to reach me **sirishacyd@gmail.com**
 
