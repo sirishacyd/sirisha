@@ -1,9 +1,9 @@
-* 👋 Hi, I’m @Sirisha Polisetty
-* Currently pursuing Masters at San Jose State University- Fall 2022
-* Software Engineering -Cloud and Mobile Computing
-
+- Hi there, I'm Sirisha Polisetty
+- Currently pursuing Masters at San Jose State University- Fall 2022
+- Software Engineering -Cloud and Mobile Computing
+- 🥅 2022 Goals: Learn more about cloud
+- ⚡ Fun fact: I love to play board games
 - 📫 How to reach me **sirishacyd@gmail.com**
-
 
 <p align="left">
 </p>
