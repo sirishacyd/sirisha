@@ -5,13 +5,12 @@
 **Technologies and Skills**
 
 ```
-Programming Languages : Python
-Front-end : HTML5,CSS, Bootstrap
-Web frameworks: Django
-Middleware Tools: Web Sphere MQ, Web Sphere MB, IIB
-Testing Frameworks: Unittest
-Cloud Platforms: AWS, Google Cloud, Azure
-Databases: MySQL, PostgreSQL MongoDB, SQLLite, Snowflake
-Tools and Platforms: Git, Visual Studio Code, Linux, AIX, Jupyter Notebook, ServiceNow, HP- Service Manager, Putty, WebSphere MQ Explorer, Jenkins, DevOps, Docker
+Programming : Python, Java, SQL, C++, Ruby, Shell
+CI/CD : Jenkins, gitlab, bazel, maven, circleci, npm, travis ci, terraform, salt
+Testing : Selenium, Testing, Junit, pytest
+Cloud : kubernetes, docker, amazon web services, microsoft azure, google cloud platform
+OS & Tools : linux, macOS, JIRA, git,, visual studio code, Eclipse IDE
+Web : HTML, CSS, JavaScript, jQuery, ReactJS, AngularJS, bootstrap, node.js, kibana, Django
+Data : MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ, Zookeeper
 ```
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirishacyd&show_icons=true&locale=en&layout=compact" alt="sirishacyd" </p>
