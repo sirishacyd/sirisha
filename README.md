@@ -9,7 +9,7 @@ Programming : Python, Java, SQL, C++, Ruby, Shell
 CI/CD : Jenkins, gitlab, bazel, maven, circleci, npm, travis ci, terraform, salt
 Testing : Selenium, Testing, Junit, pytest
 Cloud : kubernetes, docker, amazon web services, microsoft azure, google cloud platform
-OS & Tools : linux, macOS, JIRA, git,, visual studio code, Eclipse IDE
+OS & Tools : linux, macOS, JIRA, git, visual studio code, Eclipse IDE
 Web : HTML, CSS, JavaScript, jQuery, ReactJS, AngularJS, bootstrap, node.js, kibana, Django
 Data : MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ, Zookeeper
 ```
