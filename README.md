@@ -1,5 +1,6 @@
 - Hi there, **I'm Sirisha Polisetty**
 - I am a graduate student at san jose state university, currently pursuing masters in software engineering with specialization in cloud and mobile computing.
+- Open to Learn New Technologies.
 - 📫 How to reach me **sirishacyd@gmail.com**
 
 **Technologies and Skills**
