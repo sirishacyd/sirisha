@@ -6,13 +6,14 @@
 **Technologies and Skills**
 
 ```
-Programming : Python, Java, SQL, C++, Ruby, Shell
-CI/CD : Jenkins, gitlab, bazel, maven, circleci, npm, travis ci, terraform, salt
-Testing : Selenium, Testing, Junit, pytest
-Cloud : kubernetes, docker, amazon web services, microsoft azure, google cloud platform
-OS & Tools : linux, macOS, JIRA, git, visual studio code, Eclipse IDE
-Web : HTML, CSS, JavaScript, jQuery, ReactJS, AngularJS, bootstrap, node.js, kibana, Django
-Data : MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ, Zookeeper
+Programming: Python, Java, SQL, C++, Ruby, Shell.
+CI/CD: Jenkins, gitlab, bazel, maven, circleci, npm, travis ci, terraform.
+Testing: Selenium, Testing, Junit, py test.
+Cloud: kubernetes, docker, amazon web services, microsoft azure, google cloud platform.
+OS and Tools: linux, macOS, windows, JIRA, git, visual studio code, Eclipse IDE, CloudWatch, CloudTrail,
+Stackdriver, ELK Stack.
+Web: HTML, CSS, JavaScript, jQuery, ReactJS, AngularJS, bootstrap, node.js, kibana, Django.
+Data: MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ, Zookeeper.
 ```
 
 
