@@ -60,6 +60,8 @@ I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm wor
 * Designing and applying continuous integration and delivery mechanisms using platforms such as Jenkins and GitLab CI/CD.
 * Engaging with cross-functional units to optimize the effectiveness and reliability of software development operations.
 
+By combining my expertise in Site Reliability Engineering, Software Development, and DevOps, I strive to contribute to organizations by delivering robust and efficient software solutions while ensuring seamless integration between development and operations teams.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishacyd&label=Profile%20views&color=0e75b6&style=flat" alt="sirishacyd" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirishacyd&show_icons=true&locale=en&layout=compact" alt="sirishacyd" </p>
