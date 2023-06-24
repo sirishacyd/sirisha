@@ -43,16 +43,16 @@ Data: MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ
 I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm working on various software development projects. My current focus is on:
 
 ### Site Reliability Engineering
-* Architecting and executing infrastructure automation strategies with tools such as Terraform and Ansible.
-* Crafting and deploying monitoring and logging solutions utilizing Prometheus, Grafana, and Jenkins.
-* Spearheading incident response strategies and conducting post-incident analyses to determine root causes and avert future occurrences.
-* Assessing and integrating new technologies to augment system performance, ensure reliability, and bolster security.
+* Designing and implementing infrastructure automation strategies using tools like Terraform and Ansible.
+* Developing and deploying monitoring and logging solutions using Prometheus, Grafana, and Jenkins.
+* Leading incident response efforts and conducting post-incident analyses to identify root causes and prevent future occurrences.
+* Evaluating and integrating new technologies to enhance system performance, ensure reliability, and strengthen security.
 
 ### Software Development
-* Crafting and constructing applications employing contemporary software engineering methodologies and technologies.
-* Constructing and dispatching applications via containerization tools such as Docker and Kubernetes.
-* Constructing and enacting continuous integration and delivery workflows utilizing tools such as Jenkins and GitLab CI/CD.
-* Cooperating with multidisciplinary teams to guarantee that software development procedures are optimized for efficiency and reliability
+* Creating and building applications using modern software engineering methodologies and technologies.
+* Deploying applications using containerization tools such as Docker and Kubernetes.
+* Establishing and managing continuous integration and delivery workflows using tools like Jenkins and GitLab CI/CD.
+* Collaborating with multidisciplinary teams to optimize software development processes for efficiency and reliabilit
 
 ### DevOps Engineer
 * Architecting and programming applications utilizing cutting-edge software engineering practices and technologies.
