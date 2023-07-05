@@ -48,7 +48,7 @@ I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm wor
 * Leading incident response efforts and conducting post-incident analyses to identify root causes and prevent future occurrences.
 * Evaluating and integrating new technologies to enhance system performance, ensure reliability, and strengthen security.
 
-### Software Development
+### Software Development/Software Engineer
 * Creating and building applications using modern software engineering methodologies and technologies.
 * Deploying applications using containerization tools such as Docker and Kubernetes.
 * Establishing and managing continuous integration and delivery workflows using tools like Jenkins and GitLab CI/CD.
