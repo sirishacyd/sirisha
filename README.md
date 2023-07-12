@@ -39,7 +39,7 @@ Data: MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ
 ## 🔭 Current Work
 I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm working on various software development projects. My current focus is on:
 
-### Site Reliability Engineering/DevOps Engineer
+### DevOps/SRE Engineer
 * Driving infrastructure automation using Terraform and Ansible.
 * Establishing system monitoring with Prometheus, Grafana, and Jenkins.
 * Managing incident response and conducting root cause analyses.
