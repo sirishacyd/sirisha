@@ -37,8 +37,8 @@ Data: MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ
 ```
 
 ## 🔭 Current Work
-I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm working on various software development projects. My current focus is on:
-
+I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm working on various software development projects. 
+My current focus is on:
 ### DevOps/SRE Engineer
 * Driving infrastructure automation using Terraform and Ansible.
 * Establishing system monitoring with Prometheus, Grafana, and Jenkins.
@@ -48,7 +48,6 @@ I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm wor
 * Deploying applications using Docker and Kubernetes.
 * Designing CI/CD pipelines with Jenkins and GitLab.
 * Facilitating cross-functional collaborations to optimize software operations.
-
 ### Software Engineer
 * Creating and building applications using modern software engineering methodologies and technologies.
 * Deploying applications using containerization tools such as Docker and Kubernetes.
