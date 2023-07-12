@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm sirisha 👋
 
-I am a graduate student at san jose state university, currently pursuing masters in software engineering with specialization in cloud and mobile computing.. 
+I am a graduate student at san jose state university, currently pursuing masters in software engineering with specialization in cloud and mobile computing. 
 
 <h3 align="center"></h3>
 
