@@ -1,3 +1,7 @@
+<h1 align="center">Hi there, I'm sirisha 👋</h1>
+<h3 align="center">I am a graduate student at san jose state university, currently pursuing masters in software engineering with specialization in cloud and mobile computing.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/sirishacyd/sirishacyd/blob/main/git.gif">
 
 <!--
 **sirishacyd/sirishacyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,28 +17,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there, I'm sirisha 👋
-
-I am a graduate student at san jose state university, currently pursuing masters in software engineering with specialization in cloud and mobile computing. 
-
 <h3 align="center"></h3>
 
 <h3 align="left"></h3>
 <p align="left">
 </p>
 
-## 🌱 Technical Skills
-```
-Programming: Python, Java, SQL, C++, Ruby, Shell.
-CI/CD: Jenkins, gitlab, bazel, maven, circleci, npm, travis ci, terraform.
-Testing: Selenium, Testing, Junit, py test.
-Cloud: kubernetes, docker, amazon web services, microsoft azure, google cloud platform.
-OS and Tools: linux, macOS, windows, JIRA, git, visual studio code, Eclipse IDE, CloudWatch, CloudTrail,
-Stackdriver, ELK Stack.
-Web: HTML, CSS, JavaScript, jQuery, ReactJS, AngularJS, bootstrap, node.js, kibana, Django.
-Data: MySQL, SnowSQL, SQlite, MongoDB, Elastic Search, Redis, logstash, rabbitMQ, Zookeeper.
-```
+**🌱 Technical Skills**
+
+1. **Programming:** Python, Java, SQL, C++, Ruby, Shell
+2. **CI/CD:** Jenkins, GitLab, Bazel, Maven, CircleCI, NPM, Travis CI, Terraform
+3. **Testing:** Selenium, Testing, JUnit, PyTest
+4. **Cloud:** Kubernetes, Docker, AWS, Azure, GCP
+5. **OS & Tools:** Linux, macOS, Windows, JIRA, Git, VS Code, Eclipse, CloudWatch, CloudTrail, Stackdriver, ELK
+6. **Web:** HTML, CSS, JS, jQuery, React, Angular, Bootstrap, Node, Kibana, Django
+7. **Data:** MySQL, SnowSQL, SQLite, MongoDB, ElasticSearch, Redis, Logstash, RabbitMQ, Zookeeper
 
 ## 🔭 Current Work
 I'm currently pursuing my Masters in Software Engineering at SJSU, where I'm working on various software development projects. 
