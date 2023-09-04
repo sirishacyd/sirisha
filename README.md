@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/sirishacyd/sirishacyd/blob/main/github-header-image.png)
 
-<h3 align="center"> Currently pursuing masters in software engineering with specialization in cloud and mobile computing.</h3>
+<h3 align="center"> Graduate Student at San Jose State University, Currently pursuing masters in software engineering with specialization in cloud and mobile computing.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/sirishacyd/sirishacyd/blob/main/git.gif">
 
