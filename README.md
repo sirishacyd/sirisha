@@ -39,7 +39,7 @@ As a graduate student at San Jose State University specializing in Cloud and Mob
 - Strong foundation in ML technologies and cloud services.
 - Skilled in enhancing security, performance, and network efficiency.
 - Proven track record in leading IT projects and innovative problem solving.
-- I hold certifications in Azure Fundamentals (AZ 900) and AWS Solutions Architect
+- I hold certifications in Azure Fundamentals (AZ 900) and AWS Solutions Architect.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishacyd&label=Profile%20views&color=0e75b6&style=flat" alt="sirishacyd" /> </p>
 
