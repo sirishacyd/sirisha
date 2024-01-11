@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/sirishacyd/sirishacyd/blob/main/github-header-image.png)
+![MasterHead](https://github.com/sirishacyd/sirishacyd/blob/main/header.png)
 
 <img align="right" alt="Coding" width="300" src="https://github.com/sirishacyd/sirishacyd/blob/main/git.gif">
 
