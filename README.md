@@ -35,11 +35,11 @@ As a graduate student at San Jose State University specializing in Cloud and Mob
 
 ## Key Strengths:
 - Expert in CI/CD, cloud infrastructure (AWS, Azure), and pipeline efficiency.
-- Proficient in Python, Java, NodeJS, ReactJS; experienced in full-stack development.
+- Proficient in Python, Java, NodeJS, and ReactJS; demonstrated ability in full-stack development through significant contributions to academic projects.
 - Strong foundation in ML technologies and cloud services.
 - Skilled in enhancing security, performance, and network efficiency.
 - Proven track record in leading IT projects and innovative problem solving.
-- I hold certifications in Azure Fundamentals (AZ 900) and AWS Solutions Architect.
+- Holder of Azure Fundamentals (AZ 900) and AWS Solutions Architect certifications.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishacyd&label=Profile%20views&color=0e75b6&style=flat" alt="sirishacyd" /> </p>
 
