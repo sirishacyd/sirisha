@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/sirishacyd/sirishacyd/blob/main/github-header-image.png)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/sirishacyd/sirishacyd/blob/main/git.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/sirishacyd/sirishacyd/blob/main/git.gif">
 
 <!--
 **sirishacyd/sirishacyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
