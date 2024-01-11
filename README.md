@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **🌱 Technical Skills**
 
-1. **Programming:** Python, Java, SQL, C++, Ruby, Shell
+1. **Programming:** Python, Java, NodeJS, ReactJS, Golang, SQL, JavaScript, Bash, HTML, CSS 
 2. **CI/CD:** Jenkins, GitLab, Bazel, Maven, CircleCI, NPM, Travis CI, Terraform
 3. **Testing:** Selenium, Testing, JUnit, PyTest
 4. **Cloud:** Kubernetes, Docker, AWS, Azure, GCP
