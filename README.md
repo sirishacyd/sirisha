@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 </p>
 
 **🌱 Technical Skills**
-1. **Programming:** Python, Java, NodeJS, ReactJS, Golang, SQL, JavaScript, Bash, HTML, CSS 
-2. **Monitoring, Automation & Config. Mgmt:** Nagios, Grafana, Prometheus, Ansible, Terraform, Vault 
-3. **Version Control & CI/CD Tools:** Git, Bitbucket, Jenkins, CI/CD, GitHub Actions 
-4. **Cloud Services & Containers:** AWS, Azure, Docker, Kubernetes 
-5. **Storage, Networking & Virtualization:** NFS, DNS, TCP/UDP, Virtualization 
-6. **Tools, Systems & Frameworks:** VS Code, PyCharm, Maven, Bazel, JIRA, SonarQube, Artifactory, MySQL, MongoDB, Elasticsearch, Linux, macOS, Windows, Django, Flask, pandas, NumPy, Matplotlib, PyTorch
+1. **Languages & Scripting**: Python, Go, Bash, SQL
+2. **Infrastructure as Code** Terraform, AWS CloudFormation
+3. **Containers & Orchestration**: Docker, Kubernetes, ArgoCD
+4. **CI/CD Tools**: Jenkins, GitLab CI, CircleCI
+5. **Cloud Platforms**: AWS, GCP , Azure
+6. **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+7. **Version Control & Configuration Management**:  Git, GitHub, GitLab, Ansible, Puppet
 
 ## 🔭 About
 As a graduate student at San Jose State University specializing in Cloud and Mobile Computing, I am honing my skills in software engineering, preparing to contribute effectively in the tech industry. With my graduation in May 2024, I am actively seeking opportunities in Software Engineering, SRE, and Cloud DevOps roles.
