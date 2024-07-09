@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h3 align="center"></h3>
 
 <h3 align="left"></h3>
@@ -34,8 +35,8 @@ Here are some ideas to get you started:
 ## 🔭 About
 As a Cloud and Mobile Computing student at San Jose State University, I am honing my skills in cloud and software engineering. I am actively seeking opportunities in Software Engineering, SRE, and Cloud DevOps roles
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishacyd&label=Profile%20views&color=0e75b6&style=flat" alt="sirishacyd" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirishacyd&show_icons=true&locale=en&layout=compact" alt="sirishacyd" </p>
+
+<p><strong>Total commits:</strong> <!-- COMMIT COUNT --></p>
