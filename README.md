@@ -39,4 +39,4 @@ As a Cloud and Mobile Computing student at San Jose State University, I am honin
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirishacyd&show_icons=true&locale=en&layout=compact" alt="sirishacyd" </p>
 
-<p><strong>Total commits:</strong> 1</p>
+<p><strong>Total commits:</strong> <!-- COMMIT COUNT --></p>

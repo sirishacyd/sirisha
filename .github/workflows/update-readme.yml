@@ -12,10 +12,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install axios
+
       - name: Fetch commit count
         id: commits
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          commit_count=$(git rev-list --count HEAD)
+          node fetch_commit_counts.js > commit_count.txt
+          commit_count=$(cat commit_count.txt)
           echo "commit_count=$commit_count" >> $GITHUB_ENV
 
       - name: Update README
