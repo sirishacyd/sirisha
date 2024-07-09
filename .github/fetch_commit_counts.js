@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const GITHUB_USERNAME = 'your-github-username';
+const GITHUB_USERNAME = 'your-github-username'; // Replace with your GitHub username
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 const getRepos = async (username) => {
