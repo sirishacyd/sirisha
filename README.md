@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 7. **Version Control & Configuration Management**:  Git, GitHub, GitLab, Ansible, Puppet
 
 ## 🔭 About
-As a Cloud and Mobile Computing student at San Jose State University, I am honing my skills in cloud and software engineering. I am actively seeking opportunities in Software Engineering, SRE, and Cloud DevOps roles
+Cloud Software Engineer with 5+ years of experience in Terraform, Docker, Kubernetes, Python, and Go. Skilled in building scalable cloud infrastructure, enhancing reliability, performance, and release speed. Experienced in reliability, observability, automation, CI/CD, security, and cost optimization. Holds a Master's in Software Engineering from San Jose State University. Professional experience includes cloud-focused roles at Vee Ventures, IBM, and Hewlett Packard.
 
 
 
