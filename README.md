@@ -23,14 +23,9 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-**🌱 Technical Skills**
-1. **Languages & Scripting**: Python, Go, Bash, SQL
-2. **Infrastructure as Code** Terraform, AWS CloudFormation
-3. **Containers & Orchestration**: Docker, Kubernetes, ArgoCD
-4. **CI/CD Tools**: Jenkins, GitLab CI, CircleCI
-5. **Cloud Platforms**: AWS, GCP , Azure
-6. **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-7. **Version Control & Configuration Management**:  Git, GitHub, GitLab, Ansible, Puppet
+**🌱 Technical Skills**: <br> </br>
+Python, Go, Bash, SQL, Terraform, AWS CloudFormation, Docker, Kubernetes, ArgoCD, Jenkins, GitLab CI, CircleCI, AWS, GCP, Azure, Prometheus, Grafana, ELK Stack, GitHub, GitLab, Ansible, Puppet.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishacyd&label=Profile%20views&color=0e75b6&style=flat" alt="sirishacyd" /> </p>
 
