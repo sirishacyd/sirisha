@@ -1,3 +1,4 @@
+<!--
 ![MasterHead](https://github.com/sirishacyd/sirishacyd/blob/main/header.png)
 
 <img align="right" alt="Coding" width="300" src="https://github.com/sirishacyd/sirishacyd/blob/main/git.gif">
@@ -30,11 +31,6 @@ Here are some ideas to get you started:
 5. **Cloud Platforms**: AWS, GCP , Azure
 6. **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
 7. **Version Control & Configuration Management**:  Git, GitHub, GitLab, Ansible, Puppet
-
-## 🔭 About
-Cloud Software Engineer with 5+ years of experience in Terraform, Docker, Kubernetes, Python, and Go. Skilled in building scalable cloud infrastructure, enhancing reliability, performance, and release speed. Experienced in reliability, observability, automation, CI/CD, security, and cost optimization. Holds a Master's in Software Engineering from San Jose State University. Professional experience includes cloud-focused roles at Vee Ventures, IBM, and Hewlett Packard.
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishacyd&label=Profile%20views&color=0e75b6&style=flat" alt="sirishacyd" /> </p>
 
