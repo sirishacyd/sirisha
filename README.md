@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-**🌱 Technical Skills**: <br> </br>
-Python, Go, Bash, SQL, Terraform, AWS CloudFormation, Docker, Kubernetes, ArgoCD, Jenkins, GitLab CI, CircleCI, AWS, GCP, Azure, Prometheus, Grafana, ELK Stack, GitHub, GitLab, Ansible, Puppet.
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirishacyd&label=Profile%20views&color=0e75b6&style=flat" alt="sirishacyd" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirishacyd&show_icons=true&locale=en&layout=compact" alt="sirishacyd" </p>
